@@ -1,0 +1,6 @@
+# Get-to-know-me
+My name is Zach! I've lived in Minnesota my entire life, and I used to work a lot of construction, and warehouse job, though over the last year I have gotten in with a great financal company and would like to progress further!
+My goal is to one day become a developer, though in the mean time I would like to begin facilitating change within the current structure of the team I am apart of to leave lasting change. After that, I would like to begin my journey into developing by becoming an analyst to devleop some skills that I can use later on. 
+I chose FinTech, as I felt it would be a great program to truly get the fundementals of this field built as I have no relative experience in tech really. I really do think the resources the bootcamp provides are invaluable when it comes to beginning in this industry with a fresh slate. Similarly meeting people who are more established in this industry and gaining a bit of perspective I think will go a long way in my fundamental understanding of the individuals in this field. 
+
+I look forward to getting to know you all, and I can't wait to see what I learn from you. 
